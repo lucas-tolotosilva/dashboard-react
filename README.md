@@ -9,6 +9,9 @@
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
+## QR CODE - Github
+![39080376](https://user-images.githubusercontent.com/72028645/138149805-9d5a14e0-ac7b-4bde-84d9-516a553bb65e.png)
+
 ## Após clonar o projeto execute
 Instalar as dependências:
 >npm install
