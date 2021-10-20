@@ -11,5 +11,5 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 Instalar as dependências:
 >npm install
 
-Abrir o programa (Vá dentro de uma pasta/projeto dentro de `\src`):
+Abrir o programa:
 >npm start
